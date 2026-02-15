@@ -1,32 +1,19 @@
-# Привет! Я Зульфира - начинающий QA-инженер. 👋
+## Привет! Я Зульфира - начинающий QA-инженер 👋
 
 <div align="center">
-<img hight="200" width="200" alt="GIF" align="center" src="./assets/hello.gif">
-<img hight="200" width="200" alt="GIF" align="center" src="./assets/hello.gif">
-<img hight="200" width="200" alt="GIF" align="center" src="./assets/hello.gif">
+<img hight="200" width="200" alt="GIF" align="center" src="./assets/leaf-blower.gif">
+<img hight="200" width="200" alt="GIF" align="center" src="./assets/leaf-blower.gif">
+<img hight="200" width="200" alt="GIF" align="center" src="./assets/leaf-blower.gif">
 <!-- https://github.com/2ZS7/2ZS7/blob/main/assets/hello.gif -->
 </div>
-
-</br>
-</br>
 </br>
 
+### About ME 💬 :
 
-## About ME 💬 :
-
- Студентка 4-го курса УУНиТ по специальности "Программная инженерия". Имею годовой опыт работы инженером-электроником, где я осознала, что качество продукта - это то, на чем я хочу сфокусироваться профессионально.
-
-
-- 📫 Как связаться со мной: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/jantwtw) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:szulfira79@gmail.com)
+ Студентка 4-го курса УУНиТ по специальности "Программная инженерия". Имею годовой опыт работы инженером-электроником, где осознала, что качество продукта - это то, на чем я хочу сфокусироваться профессионально.
 
 
-</br>
-</br>
-</br>
-
-
-
-## Skills & Technologies 👨‍💻 🛠:
+### Skills & Technologies 👨‍💻 🛠:
 <img hight="150" width="150" alt="GIF" align="right" src="./assets/kawai-budding-pop.gif">
 </br>
 <p align="center">
@@ -54,11 +41,8 @@
 </p>
 
 </br>
-</br>
-</br>
 
-
-## 💻 Testing Artefacts:
+### 💻 Testing Artefacts:
 <img hight="200" width="200" alt="GIF" align="left" src="./assets/work_harder.gif">
 
 <ul>
@@ -72,18 +56,12 @@
   <li>✨ <a href="https://github.com/2ZS7/git">Git</a> – основные команды управления версиями</li>
 </ul>
 
----
-</br>
-</br>
 </br>
 
-<div align="center">
+### 📫 Contact Me : 
 
-<img hight="250" width="250" alt="GIF" align="center" src="./assets/budding-pop-bye.gif">
-<!-- <img hight="200" width="200" alt="GIF" align="center" src="./assets/budding-pop-bye.gif">
-<img hight="200" width="200" alt="GIF" align="center" src="./assets/budding-pop-bye.gif"> -->
-<!-- https://github.com/2ZS7/2ZS7/blob/main/assets/hello.gif -->
+<a href="https://t.me/jantwtw"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+<a href="mailto:szulfira79@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 
-</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=2ZS7)
